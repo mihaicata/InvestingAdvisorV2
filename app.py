@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import yfinance as yf
 import pandas as pd
@@ -228,4 +227,3 @@ if st.button("Analyze Stocks"):
                 )
 
         st.markdown("</div>", unsafe_allow_html=True)
-```
